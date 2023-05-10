@@ -17,7 +17,7 @@
 
 To scan a Minecraft server, run the following command:
 ```python
-python minecraft_server_scanner.py
+python MCServerScan.py
 ```
 The tool will scan the server ip and find others on the same node
 
