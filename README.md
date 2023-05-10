@@ -25,4 +25,7 @@ The tool will scan the server ip and find others on the same node
 
 You are welcome to fork it but please gives credits
 
+
+See <a href="https://github.com/IamSTEINI/minecraft-server-scanner/blob/main/LICENSE">THE LICENSE</a> for more infos.
+
 <img align="center" style="border-radius:12px;width:400px" src="https://i.imgur.com/jWKgRlY.png" alt="Banner"/>
