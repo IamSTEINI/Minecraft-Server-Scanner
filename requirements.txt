@@ -1,1 +1,4 @@
 colorama
+struct
+socket
+base64
