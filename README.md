@@ -1,5 +1,8 @@
 # Minecraft Server Scanner
-**Installation**
+
+➡️ **STEIN'S SERVERSCANNER** ⬅️
+
+<h1>Installation</h1>
 
 1. Clone this repository or download the source code as a ZIP file and extract it to a local directory.
 2. Open a terminal or command prompt and navigate to the directory where you extracted the source code.
@@ -10,7 +13,7 @@
     ```
     This will install the necessary Python packages listed in the requirements.txt file.
 
-**Usage**
+<h1>Usage</h1>
 
 To scan a Minecraft server, run the following command:
 ```python
@@ -18,7 +21,7 @@ python minecraft_server_scanner.py
 ```
 The tool will scan the server ip and find others on the same node
 
-**Fork it**
+<h1>Fork it but</h1>
 
 You are welcome to fork it but please gives credits
 
